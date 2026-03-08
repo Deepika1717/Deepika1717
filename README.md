@@ -1,7 +1,3 @@
-You just need to **add your new project to the “Projects” section** and slightly improve the wording so recruiters immediately see the value. Below is an **updated GitHub profile README** including your **Semantic Search System project**.
-
-You can **copy and paste this directly** into your GitHub profile README.
-
 ---
 
 ## GitHub Profile README (Updated)
@@ -92,9 +88,3 @@ HTML, CSS, JavaScript
 🚀 **Always open to learning, collaboration, and new challenges!**
 
 ---
-
-✅ This version is **cleaner, recruiter-friendly, and highlights your new project first**.
-
----
-
-If you want, I can also show you **3 small changes that make your GitHub profile look like a senior developer profile (recruiters notice this immediately).**
