@@ -1,29 +1,100 @@
-## Hi there 👋 I'm Mani Deepika
+You just need to **add your new project to the “Projects” section** and slightly improve the wording so recruiters immediately see the value. Below is an **updated GitHub profile README** including your **Semantic Search System project**.
 
-🎓 I'm a Computer Science undergraduate passionate about building impactful software solutions.
+You can **copy and paste this directly** into your GitHub profile README.
 
-🌱 Currently learning:  
-- Machine Learning  
-- Web Development (HTML, CSS, JavaScript, Python, Flask)
+---
 
-💻 Projects:  
-- 🛡️ [Online Payment Fraud Detection](https://github.com/Deepika1717/online-payment-fraude-detection)  
-  Developed a machine learning web app to detect fraudulent transactions using a Kaggle dataset.  
-  Implemented using Python, Flask, and Scikit-learn with Random Forest and Naive Bayes models.
+## GitHub Profile README (Updated)
 
-- 🌾 [AgriDirect](https://github.com/Deepika1717/AgriDirect)  
-  Created a frontend web app that connects farmers with consumers for fresh produce bookings.  
-  Built using HTML, CSS, and JavaScript to support a farm-to-kitchen delivery model.
+Hi there 👋 I'm **Mani Deepika**
 
-🔍 Interests:  
-- Machine Learning  
-- Full-Stack Web Development  
-- Problem Solving & DSA
+🎓 I'm a **Computer Science undergraduate** passionate about building impactful software solutions and learning modern technologies.
 
-📫 Reach me at:  
-- Email: manideepikanara22@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mani-deepika-narla-499629330  
-- GitHub: [Deepika1717](https://github.com/Deepika1717)
+---
 
-🚀 Always open to learning, collaboration, and new challenges!
+# 🌱 Currently Learning
 
+• Machine Learning
+• Web Development (**HTML, CSS, JavaScript, Python, Flask**)
+• Building AI-powered applications
+
+---
+
+# 💻 Projects
+
+### 🔎 Semantic Search System with Fuzzy Clustering and Semantic Cache
+
+Developed a **semantic search system** that retrieves documents based on meaning rather than keyword matching using the **20 Newsgroups dataset**.
+
+**Key Features:**
+
+* Generated document embeddings using **Sentence Transformers**
+* Implemented **cosine similarity-based semantic search**
+* Applied **Fuzzy C-Means clustering** to analyze topic relationships
+* Built a **Semantic Cache** to reuse results for similar queries
+* Exposed the system through a **FastAPI REST API**
+
+**Tech Stack:**
+Python, FastAPI, Sentence Transformers, Scikit-learn, NumPy
+
+---
+
+### 🛡️ Online Payment Fraud Detection
+
+Developed a **machine learning web application** to detect fraudulent transactions using a Kaggle dataset.
+
+**Key Features:**
+
+* Implemented fraud detection models using **Random Forest** and **Naive Bayes**
+* Built a **Flask-based web interface** for real-time prediction
+* Processed and cleaned financial transaction data for model training
+
+**Tech Stack:**
+Python, Flask, Scikit-learn, Pandas
+
+---
+
+### 🌾 AgriDirect
+
+Created a **frontend web application** connecting farmers directly with consumers for fresh produce booking.
+
+**Key Features:**
+
+* Designed a **farm-to-consumer delivery interface**
+* Implemented product browsing and ordering features
+* Focused on improving **direct farmer market access**
+
+**Tech Stack:**
+HTML, CSS, JavaScript
+
+---
+
+# 🔍 Interests
+
+• Machine Learning
+• Full-Stack Web Development
+• Problem Solving & Data Structures
+
+---
+
+# 📫 Reach Me At
+
+📧 Email: **[manideepikanara22@gmail.com](mailto:manideepikanara22@gmail.com)**
+
+💼 LinkedIn:
+[https://www.linkedin.com/in/mani-deepika-narla-499629330](https://www.linkedin.com/in/mani-deepika-narla-499629330)
+
+💻 GitHub:
+[https://github.com/Deepika1717](https://github.com/Deepika1717)
+
+---
+
+🚀 **Always open to learning, collaboration, and new challenges!**
+
+---
+
+✅ This version is **cleaner, recruiter-friendly, and highlights your new project first**.
+
+---
+
+If you want, I can also show you **3 small changes that make your GitHub profile look like a senior developer profile (recruiters notice this immediately).**
