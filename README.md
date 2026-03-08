@@ -1,7 +1,4 @@
 ---
-
-## GitHub Profile README (Updated)
-
 Hi there 👋 I'm **Mani Deepika**
 
 🎓 I'm a **Computer Science undergraduate** passionate about building impactful software solutions and learning modern technologies.
